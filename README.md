@@ -33,6 +33,11 @@
 </p>
 
 ---
+### ⚔️ Codewars
+
+<a href="https://www.codewars.com/users/aryanvr961" target="_blank">
+  <img src="https://www.codewars.com/users/aryanvr961/badges/large" alt="Codewars Badge"/>
+</a>
 
 ### 🛠️ Languages & Tools
 <p align="left">
